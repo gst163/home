@@ -1,18 +1,18 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "TVBox接口",
+    "link": "/tvbox"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "TVBox解密",
+    "link": "/ua"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "TVBox加密",
+    "link": "/aes"
   },
   {
     "icon": "Compass",
